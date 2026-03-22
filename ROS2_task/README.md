@@ -17,7 +17,9 @@ This node simulates a sensor. It generates a random integer between 1 and 100 ev
 This node listens to the /distance topic. Whenever it receives a value, it prints it in the terminal.
 
 Topics and Message Type
+
 Topic Name: /distance
+
 Message Type: Int32 (from std_msgs)
 
 

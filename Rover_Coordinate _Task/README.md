@@ -5,14 +5,19 @@ This is a C program that calculates the distance and time required for a rover t
 Inputs
 
  Origin coordinates (x1, y1)
+ 
  Destination coordinates (x2, y2)
+ 
  Initial velocity (u)
+ 
  Acceleration (a)
+ 
  Maximum velocity (v)
 
 Output
 
 Distance between the two points
+
 Time taken to reach the destination
 
 

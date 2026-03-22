@@ -24,9 +24,13 @@ Message Type: Int32 (from std_msgs)
 
 How to Run the Project
 First, build the workspace:
+
 cd ~/ros2_ws
+
 colcon build --symlink-install\
+
 source install/setup.bash
+
 
 Then open two terminals.
 Terminal 1 (Publisher)

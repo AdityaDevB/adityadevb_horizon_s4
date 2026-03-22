@@ -11,7 +11,7 @@ class CommandListener(Node):
 
     def listener_callback(self, msg):
         self.get_logger().info(
-            "Received command :" + str(msg.data) +"  Rover wheels moving.."
+            "Received command :" + str(msg.data) +"  Rover acting.."
         )
 
 def main(args=None):

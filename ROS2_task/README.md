@@ -33,11 +33,15 @@ source install/setup.bash
 
 
 Then open two terminals.
+
 Terminal 1 (Publisher)
+
 ros2 run my_robot_controller distance_publisher
 
 Terminal 2 (Subscriber)
+
 ros2 run my_robot_controller distance_subscriber
+
 Example Output
 
 Publisher terminal:

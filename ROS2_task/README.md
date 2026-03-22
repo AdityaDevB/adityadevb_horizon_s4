@@ -53,3 +53,17 @@ Subscriber terminal:
 
 Received distance: 42
 Received distance: 17
+
+
+Structure :
+
+ROS2_task/
+├── Screenshots/
+├── my_robot_controller/
+│   ├── __init__.py
+│   ├── distance_publisher.py
+│   ├── distance_subscriber.py
+├── README.md
+├── package.xml
+├── setup.cfg
+├── setup.py
